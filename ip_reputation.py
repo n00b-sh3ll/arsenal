@@ -4,7 +4,7 @@ import sys
 import ipaddress
 import requests
 
-ABUSEIPDB_KEY='9c3257017666680664d0d2803dd216745a5677f80'
+ABUSEIPDB_KEY='0sss17666680664d0d2803dd216745a5677f80'
 
 ABUSEIPDB_URL = "https://api.abuseipdb.com/api/v2/check"
 THRESHOLD = 20   # somente acima ou igual a 20
