@@ -1,4 +1,3 @@
 # arsenal
 
-- `ip_repuration.py`
-This script was used to get ip reputation.
+- `ip_repuration.py` : This script was used to get ip reputation.
